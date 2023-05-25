@@ -2,9 +2,7 @@
 
 ### Data Scientist / Data Analyst
 
-Data and AI Enthusiast.
-Graduated in Administration.
-
+Data and AI Enthusiast.  
 I am currently perfecting my knowledge in **R language**, **Docker/Linux** and **Cloud Computing**
 
 <div>
