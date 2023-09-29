@@ -29,6 +29,7 @@ I am currently improving my skills in **R language**, **Docker**, **Linux** and 
   <img align="center" alt="MYSQL" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg">
   <img align="center" alt="MYSQL" height="80" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg">
   <img align="center" alt="JUPYTER" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg">
+  <img align="center" alt="JUPYTER" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rstudio/rstudio-original.svg">
   <img align="center" alt="ANACONDA" height="80" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original-wordmark.svg">        
 </div>
 
