@@ -16,7 +16,9 @@ I am currently improving my skills in **R language**, **Docker**, **Linux** and 
 
 <div>
   <img align="center" alt="PYTHON" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg">
+  <img align="center" alt="PYTHON" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
   <img align="center" alt="MYSQL" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="MYSQL" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg">
   <img align="center" alt="MYSQL" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 </div>
 
