@@ -2,7 +2,6 @@
 
 ### Data Scientist / Data Analyst
 
-Data and AI Enthusiast.  
 I am currently improving my skills in **R language**, **Docker**, **Linux** and **Cloud Computing**
 
 <div>
